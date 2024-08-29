@@ -33,4 +33,4 @@ For background replacement, this application uses the rembg library, which is ba
 
 - **New Background Application**: After removing the original background, a new background image can be added behind the subject(s). The PIL.Image module is used to handle image compositing, allowing for seamless integration of the subject(s) with the new background.
 
-= **Final Output**: The result is a high-quality image where the subject(s) remain intact while the background has been replaced. This technique is particularly useful for applications like virtual backgrounds, image editing, and creative photo manipulation.
+- **Final Output**: The result is a high-quality image where the subject(s) remain intact while the background has been replaced. This technique is particularly useful for applications like virtual backgrounds, image editing, and creative photo manipulation.
